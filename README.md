@@ -63,4 +63,7 @@ Best performance obtained with embedding 100, hidden 150, layers 1 cite
 
 ---
 
+## contributors : 
+Lily Daganaud, Ines Lalou, Sarah Garcia, Candice Bouquin-Renoux
+
 *All results obtained on standard SemEval English STS datasets.*
